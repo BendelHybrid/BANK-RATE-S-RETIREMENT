@@ -1,8 +1,5 @@
-# BANK-RATE-RETIREMENT
-Analyzing Bank rate's best and worst state retirement data for 2022
-
 # Project Name: BANK-RATE-RETIREMENT
-
+Analyzing Bank rate's best and worst state retirement data for 2022
 
 -------
 # Problem Objective: Analyze Bank Rate's best and worst states for retirement dataset for 2022 and give recommendations based off my report.
